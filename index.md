@@ -264,10 +264,10 @@ Edit the text to match who can attend the workshop. For instance:
 </p>
 
 <div>
+<img src="assets/img/qub.png" alt="Queen's Annual Fund logo" style="max-width: 30rem; padding: 3rem 1rem;">
 <p>
     This workshop is supported by funding from the Queen's University Belfast <a href="https://www.qub.ac.uk/alumni/QueensUniversityofBelfastFoundation/AnnualFund/">Annual Fund</a>.
 </p>
-<img src="assets/img/qub.png" alt="Queen's Annual Fund logo">
 </div>
 
 <hr/>
