@@ -256,12 +256,19 @@ Edit the text to match who can attend the workshop. For instance:
 - This workshop is open to the public.
 - If you are interested in attending this workshop, contact me@example.com
   for more information
+{% endcomment %}
 
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to ....
+    This workshop is open to students of Queen's University Belfast.
 </p>
-{% endcomment %}
+
+<div>
+<p>
+    This workshop is supported by funding from the Queen's University Belfast <a href="https://www.qub.ac.uk/alumni/QueensUniversityofBelfastFoundation/AnnualFund/">Annual Fund</a>.
+</p>
+<img src="assets/img/qub.png" alt="Queen's Annual Fund logo">
+</div>
 
 <hr/>
 
